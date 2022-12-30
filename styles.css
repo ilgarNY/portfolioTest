@@ -1,0 +1,17 @@
+hr {
+  color: red;
+}
+
+h1 {
+  color: green;
+  font-famil: "Times New Roman";
+  padding-top: 10px;
+}
+
+h2 {
+  color: rgb(128, 0, 79);
+  font-famil: Arial;
+  background-color: aqua;
+  height: 18px;
+  text-align: center;
+}
