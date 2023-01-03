@@ -63,8 +63,12 @@ h2 {
 }
 
 img {
-  border-radius: 50%;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
 }
+
 .center {
   display: block;
   margin-left: auto;
