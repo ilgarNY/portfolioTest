@@ -33,6 +33,13 @@ body {
   color: white;
 }
 
+.topnav a.split {
+  float: right;
+  background-color: #04AA6D;
+  color: white;
+}
+
+
 hr{
 border: 10px solid green;
   border-radius: 5px;
