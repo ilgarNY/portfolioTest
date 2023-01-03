@@ -26,11 +26,14 @@
   color: white;
 }
 
-
-/* h1 {
+h1 {
   color: green;
   font-famil: "Times New Roman";
   padding-top: 10px;
+
+  text-align: center;
+  back
+
 }
 
 h2 {
@@ -40,4 +43,7 @@ h2 {
   height: 18px;
   text-align: center;
 }
- */
+p {
+   text-decoration-line: overline underline;
+  text-decoration-style: wavy;
+}
