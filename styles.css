@@ -33,6 +33,10 @@ body {
   color: white;
 }
 
+hr{
+border: 10px solid green;
+  border-radius: 5px;
+}
 h1 {
   text-align: center;
   color: grey;
