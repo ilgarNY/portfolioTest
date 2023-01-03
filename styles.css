@@ -47,7 +47,7 @@ border: 10px solid green;
 h1 {
   text-align: center;
   color: grey;
-  font-famil: "Times New Roman";
+  font-family: "Times New Roman";
   padding-top: 10px;
 
   
@@ -62,3 +62,9 @@ h2 {
   text-align: center;
 }
 
+
+p {
+ text-align: center;
+ font-family: "Times New Roman";
+  padding-top: 10px;
+}
