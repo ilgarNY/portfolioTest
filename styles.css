@@ -3,7 +3,7 @@ body {
  background-color: #cccccc;
 }
 
-logo {
+.logo {
  padding:left;
  width:25px; 
  height=25px;
@@ -71,7 +71,7 @@ h2 {
 
 
 
-mypic {
+.mypic {
  margin: auto;
  border: 1px solid #ddd;
 
