@@ -14,6 +14,7 @@ body {
 
 .myprgrf{
  text-align: center;
+  padding-top: 10px;
 }
 .topnav {
   background-color: #333;
@@ -81,9 +82,4 @@ h2 {
 
   
  
-}
-p {
- text-align: center;
- font-family: "Times New Roman";
-  padding-top: 10px;
-}
+
