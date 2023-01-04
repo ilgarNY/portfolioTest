@@ -1,0 +1,96 @@
+body {
+  background-image: url("images/backImg.jpg");
+  background-color: #cccccc;
+}
+
+.mytext {
+  text-align: center;
+}
+
+.myprgrf {
+  text-align: center;
+  padding-top: 10px;
+}
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+  float: right;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #04aa6d;
+  color: white;
+}
+
+.topnav a.split {
+  float: right;
+  background-color: #04aa6d;
+  color: white;
+}
+
+hr {
+  border: 10px solid green;
+  border-radius: 5px;
+}
+
+h1 {
+  text-align: center;
+  color: grey;
+  font-family: "Times New Roman";
+  padding-top: 10px;
+}
+
+h2 {
+  height: 18px;
+  text-align: center;
+  color: #260202;
+}
+
+/* .aboutme {
+  text-align: center;
+} */
+/* ul {
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+} */
+/* article {
+  float: center;
+  margin-left: auto;
+  margin-right: auto;
+} */
+
+article {
+  width: 325px;
+  height: 125px;
+  border-radius: 7px solid;
+  padding-left: 10px;
+  padding-right: 10px;
+
+  margin: auto;
+  margin-bottom: 10px;
+}
+
+h3 {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: green;
+}
