@@ -5,7 +5,8 @@ body {
 
 .logo {
  padding:right;
- width="25px" height="25px;
+ width:25px; 
+ height=25px;
 }
 
 
